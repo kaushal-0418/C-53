@@ -1,0 +1,44 @@
+.header{  
+    display: flex;
+background-color: aqua;
+  text-align: center;
+  padding-left: 15cm;
+}
+
+.Q{
+    display:flex;
+    padding-left: 5cm;
+   
+    background-color: aqua;
+}
+
+.A{
+    display:flex;
+    margin-right: 10cm;
+    background-color: aqua
+    
+}
+
+
+
+.I{
+    display:flex;
+    padding-bottom: 3cm;
+    padding-right: 9cm;
+}
+
+.F{
+display:flex;
+padding-left:5cm;
+background-color: aqua;
+
+}
+
+.pic{
+    align-items: center;
+    padding-left: 9cm;
+}
+
+body{
+    background-color: aqua
+}
